@@ -1,0 +1,4 @@
+*.class
+it.bmp
+/target
+.DS_store
